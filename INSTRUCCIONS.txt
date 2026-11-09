@@ -1,0 +1,17 @@
+WEB JORDI CARRIÓ - VERSIÓ PREPARADA PER A PUBLICACIONS
+
+Aquest ZIP conserva la web i el vídeo originals.
+
+S’ha afegit:
+- continguts.json: dades de les publicacions.
+- .pages.yml: configuració per a Pages CMS (pagescms.org).
+- Lectura automàtica de continguts.json a la secció Vídeos i reflexions.
+
+IMPORTANT: el panell privat encara NO està actiu. Per publicar sense ZIP cal:
+1. Crear un compte GitHub i pujar-hi aquests fitxers en un repositori privat.
+2. Connectar el repositori a Netlify (la mateixa web existent).
+3. Autoritzar el repositori a Pages CMS (pagescms.org).
+4. Provar una publicació i comprovar que Netlify actualitza la web.
+
+Per ara es pot publicar aquest ZIP manualment, però això no activa l’editor.
+No hi ha un sistema de contrasenya integrat dins de la web.
